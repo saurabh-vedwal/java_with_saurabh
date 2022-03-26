@@ -1,6 +1,6 @@
 package unit_01;
 
-public class P2_Task01_Constants_In_Java {
+public class P2_Task01_ConstantsInJava {
 	private static final double Pi=3.14;
 	public static void main(String[] args) {
 		final int a=10;
