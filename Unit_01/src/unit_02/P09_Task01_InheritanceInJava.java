@@ -1,5 +1,4 @@
 package unit_02;
-
 public class P09_Task01_InheritanceInJava {
 	public static void main(String[] args) {
 		A obj1 = new A();
